@@ -8,4 +8,4 @@ A collection of small sketches put together in the [Processing](http://www.proce
 
 In order to run the sketches, you will need to download and install [Processing](http://www.processing.org).
 
-To open a sketch in Processing, go to File > Open. Select a the directory containing the project you wish to open, and open the .pde file that has the same name as the directory.
+To open a sketch in Processing, go to File > Open. Select the directory containing the project you wish to open, and open the .pde file that has the same name as the directory.
