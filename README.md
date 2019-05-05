@@ -20,6 +20,12 @@ Particles swarm around the canvas and are attracted to/repelled from one another
 
 Visualization of the lines traced out by a point on a circle rotating along a bigger circle's circumference.
 
+### Dijkstra
+
+Generates a random weighted graph, then uses Dijkstra's shortest path algorithm to find the shortest distance between two nodes.
+
+![Dijkstra](./dijkstra/dijkstra.gif "Logo Title Text 1")
+
 ### Matrix Compression
 
 Simple projection of an image's grayscale values onto a subspace, used as an inefficient and very lossy compression algorithm.
