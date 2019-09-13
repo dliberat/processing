@@ -33,5 +33,5 @@ Simple projection of an image's grayscale values onto a subspace, used as an ine
 ### P5-15 Puzzle
 
 Strictly speaking not a _Processing_ sketch, this one runs on p5js. It is the classic "15 puzzle", complete with a solving algorithm (A* with manhattan distance)
-(Live Demo)[https://editor.p5js.org/dliberat/sketches/QvVNgFY5H]
+[Live Demo](https://editor.p5js.org/dliberat/sketches/QvVNgFY5H)
 
